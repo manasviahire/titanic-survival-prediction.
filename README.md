@@ -110,6 +110,7 @@ Limitations and Future Improvements
 - Investigate feature importance while remembering that associations do not establish causation.
 Ethical Considerations
 This is an educational project based on a historical dataset. Its patterns reflect the circumstances and social inequalities of the Titanic disaster. Predictions are probabilistic and should not be used for real-world safety decisions or judgments about individuals.
+
 References
 - Seaborn documentation
 - Scikit-learn: Model selection and evaluation
