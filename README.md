@@ -9,6 +9,9 @@ Project Overview
 - Validation: Stratified 5-fold cross-validation
 - Libraries: Python, Pandas, Seaborn, Scikit-learn
 Results Dashboard
+## Results Dashboard
+
+![Titanic Survival Prediction Model Evaluation](titanic-model-evaluation.png.png)
 
 The dashboard summarizes cross-validation results and the Random Forest test-set evaluation.
 Features Used
